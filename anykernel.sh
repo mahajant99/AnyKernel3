@@ -13,8 +13,8 @@ do.cleanuponabort=0
 device.name1=sakura
 device.name2=ysl
 device.name3=daisy
-device.name4=
-device.name5=
+device.name4=surya
+device.name5=karna
 supported.versions=
 supported.patchlevels=
 '; } # end properties
